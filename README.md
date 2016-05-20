@@ -1,0 +1,2 @@
+# Diplomado
+Moodle para Diplomado 
